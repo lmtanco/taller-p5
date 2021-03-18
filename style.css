@@ -1,0 +1,13 @@
+html, body {
+  margin: 100;
+  padding: 200;
+}
+p {
+  padding: 100;
+}
+h1 {
+  color: pink;
+}
+canvas {
+  display: block;
+}
